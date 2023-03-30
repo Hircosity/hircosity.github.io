@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+permalink: /welcome-to-jekyll/
 date:   2023-03-30 12:38:11 +0300
 categories: jekyll update
 ---
